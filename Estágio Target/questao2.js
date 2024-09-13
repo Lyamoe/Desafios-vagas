@@ -14,7 +14,7 @@ while (valor1 <= NUMERO_SELECIONADO || valor2 <= NUMERO_SELECIONADO) {
         valor2 === NUMERO_SELECIONADO ||
         NUMERO_SELECIONADO === 0
     ) {
-        console.log("O numero " + NUMERO_SELECIONADO + " esta na sequencia de Fibonacci");
+        console.log(`O numero ${NUMERO_SELECIONADO} esta na sequencia de Fibonacci`);
         break;
     }
 
